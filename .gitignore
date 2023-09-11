@@ -18,3 +18,5 @@ bld/
 .vs
 .vscode
 .idea
+
+/Migrations
